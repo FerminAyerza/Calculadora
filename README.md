@@ -24,7 +24,7 @@ Para implementar essa calculadora utilizamos algumas tecnologias livres que são
 
 # Previews do projeto
 
-![snap1](snapshots/S1.JPG)
+![snap1](Snapshots/S1.JPG)
 
 Para ajudar a visualização do projeto ativei o Github pages nesse repositório:
 
