@@ -1,0 +1,20 @@
+.calculadora{
+    margin: 40px;
+    background-color: #efefef;
+    width: 550px;
+    border:#333 solid 2px;
+}
+
+#visor{
+    font-size:100px;
+    width:500px;
+    height: 100px;
+    padding:20px;
+    background-color:#efefef;
+}
+button{
+    font-size:80px;
+    padding:5px;
+    width: 114px;
+    margin: 10px;
+}
